@@ -1,4 +1,10 @@
-### Hi there 👋
+
+<h3 align="center">👋 Hi there! I'm Michael Rainsford Ryan</h3>
+<p align="center">
+  <a href="https://www.michaelrryan.com">Website</a> •
+  <a href="https://twitter.com/michaelrainryan">Twitter</a> •
+  <a href="https://michael-r-ryan.itch.io/">Games</a>
+</p>
 
 <!--
 **MichaelRRyan/MichaelRRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
