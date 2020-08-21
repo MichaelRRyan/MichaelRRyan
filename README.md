@@ -3,10 +3,23 @@
 <p align="center">
   <a href="https://www.michaelrryan.com">Website</a> •
   <a href="https://twitter.com/michaelrainryan">Twitter</a> •
+  <a href="https://www.linkedin.com/in/michaelrainsfordryan/">LinkedIn</a> •
   <a href="https://michael-r-ryan.itch.io/">Games</a>
 </p>
 
 ![Forest Background](https://raw.githubusercontent.com/MichaelRRyan/MichaelRRyan/master/img/forest.png)
+---
+
+<p align="center">
+<samp>Hobbyist and 3rd-year student game developer and designer studying a BSc (Hons) in Computer Game Development in the Institute of Technology, Carlow.</samp>
+Test text
+</p>
+
+<br>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=michaelrryan.michaelrryan)
+
+
 
 <!--
 **MichaelRRyan/MichaelRRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
