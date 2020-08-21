@@ -6,7 +6,7 @@
   <a href="https://michael-r-ryan.itch.io/">Games</a>
 </p>
 
-![Forest Background](https://github.com/MichaelRRyan/MichaelRRyan/blob/master/img/forest.png)
+![Forest Background](https://raw.githubusercontent.com/MichaelRRyan/MichaelRRyan/master/img/forest.png)
 
 <!--
 **MichaelRRyan/MichaelRRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
