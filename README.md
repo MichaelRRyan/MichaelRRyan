@@ -1,5 +1,3 @@
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=michaelrryan.michaelrryan)
 <h3 align="center">👋 Hi there! I'm Michael Rainsford Ryan</h3>
 <p align="center">
   <a href="https://www.michaelrryan.com">Website</a> •
@@ -15,10 +13,6 @@
 </p>
 
 ![Forest Background](https://raw.githubusercontent.com/MichaelRRyan/MichaelRRyan/master/img/forest.png)
-
-
-
-
 
 <!--
 **MichaelRRyan/MichaelRRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
