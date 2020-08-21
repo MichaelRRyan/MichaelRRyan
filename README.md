@@ -32,6 +32,10 @@
 
 **Other:** `Microsoft Suite (Word, Excell, Powerpoint)` `Draw.io` `Aseprite` `Inkscape` `Paint.net` `Audacity`
 
+<br>
+
+![Mountain Background](https://raw.githubusercontent.com/MichaelRRyan/MichaelRRyan/master/img/mountains.png)
+
 <!--
 **MichaelRRyan/MichaelRRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
