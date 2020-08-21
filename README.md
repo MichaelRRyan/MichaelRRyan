@@ -7,16 +7,14 @@
   <a href="https://michael-r-ryan.itch.io/">Games</a>
 </p>
 
----
+#
 
 <p align="center">
   <samp>Hobbyist and 3rd-year student game developer and designer studying a BSc (Hons) in Computer Game Development in the Institute of Technology, Carlow.</samp>
 </p>
 
 ![Forest Background](https://raw.githubusercontent.com/MichaelRRyan/MichaelRRyan/master/img/forest.png)
-
 <br>
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=michaelrryan.michaelrryan)
 
 
