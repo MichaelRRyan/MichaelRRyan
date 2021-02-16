@@ -17,9 +17,9 @@
 #
 
 ### 💬 Languages I use:
-**Use often:** `C++` `GDScript` `JavaScript` `Python`
+**Use often:** `C++` `C#` `GDScript` `JavaScript` `Python`
 
-**Experience in:** `C#` `Java` `Assembly` `HTML` `CSS` `Lua` `OpenGL` `GLSL` `PHP` `GML`
+**Experience in:** `Java` `Assembly` `HTML` `CSS` `Lua` `OpenGL` `GLSL` `PHP` `GML`
 
 #
 
