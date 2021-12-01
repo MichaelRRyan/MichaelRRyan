@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/michaelrainsfordryan/">LinkedIn</a> •
   <a href="https://michael-r-ryan.itch.io/">Games</a>
 </p>
+<p align="center">
+  <a href="https://github.com/MichaelRRyan/Projects">My Projects</a>
+</p>
 
 #
 
