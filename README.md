@@ -12,7 +12,7 @@
 #
 
 <p align="center">
-  <samp>Hobbyist and final-year student game developer and designer studying a BSc (Hons) in Computer Game Development in the Institute of Technology, Carlow.</samp>
+  <samp>Game Designer for Black Shamrock with a background in software engineering and a BSc (Hons) in Computer Game Development from SETU Carlow.</samp>
 </p>
 
 ![Forest Background](https://raw.githubusercontent.com/MichaelRRyan/MichaelRRyan/master/img/forest.png)
