@@ -27,13 +27,13 @@
 #
 
 ### 🛠️ Tools I use:
-**Game Engines:** `Godot` `Unity` `GameMaker`
+**Game Engines:** `Unreal Engine` `Godot` `Unity` `GameMaker`
 
-**IDEs:** `Visual Studio 2019` `VS Code` `PyCharm` `IntelliJ IDEA`
+**IDEs:** `Visual Studio` `VS Code` `PyCharm` `IntelliJ IDEA`
 
-**Source Control:** `Git` `Github`
+**Source Control:** `Perforce` `Git` `Github`
 
-**Other:** `Microsoft Suite (Word, Excell, Powerpoint)` `Draw.io` `Aseprite` `Inkscape` `Paint.net` `Audacity`
+**Other:** `Miro` `Jira` `Confluence` `Draw.io` `Aseprite` `Inkscape` `Paint.net` `Audacity`
 
 <br>
 
